@@ -54,7 +54,7 @@ LMS/
 
 1. Clone the repo
 ```bash
-git remote add origin https://github.com/Zahidhydri/LMS-App.git
+git remote add origin https://github.com/Taskeen-Hydri/LMS-Portal.git
 cd LMS-App
 ```
 
@@ -99,7 +99,7 @@ npm start
 ---
 
 🧑‍💻 **Author**
-**Zahid Sadique Hydri**  
+**Taskeen Sadique Hydri**  
 Computer Science Engineering Student | Software Developer
 
 ---
